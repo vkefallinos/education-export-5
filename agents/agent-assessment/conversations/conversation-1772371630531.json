@@ -1,0 +1,39 @@
+{
+  "id": "conversation-1772371630531",
+  "agentId": "agent-assessment",
+  "agentName": "AssessmentAgent",
+  "messages": [
+    {
+      "id": "msg-welcome",
+      "role": "assistant",
+      "content": "Runtime preview ready. Try sending a message to test how this agent would respond in chat.",
+      "timestamp": "2026-03-01T13:27:00.431Z"
+    },
+    {
+      "id": "msg-user-1772371624737",
+      "role": "user",
+      "content": "fooaos",
+      "timestamp": "2026-03-01T13:27:04.737Z"
+    },
+    {
+      "id": "msg-assistant-1772371625437",
+      "role": "assistant",
+      "content": "Preview response: I would use your assembled prompt and enabled files to answer this request. Still waiting on 5 runtime fields from the user.",
+      "timestamp": "2026-03-01T13:27:05.437Z"
+    },
+    {
+      "id": "msg-user-1772371627311",
+      "role": "user",
+      "content": "ass",
+      "timestamp": "2026-03-01T13:27:07.311Z"
+    },
+    {
+      "id": "msg-assistant-1772371628011",
+      "role": "assistant",
+      "content": "Preview response: I would use your assembled prompt and enabled files to answer this request. Still waiting on 5 runtime fields from the user.",
+      "timestamp": "2026-03-01T13:27:08.011Z"
+    }
+  ],
+  "createdAt": "2026-03-01T13:27:00.431Z",
+  "updatedAt": "2026-03-01T13:35:52.868Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "conversation-1772370982731",
+  "agentId": "agent-assessment",
+  "agentName": "AssessmentAgent",
+  "messages": [
+    {
+      "id": "msg-welcome",
+      "role": "assistant",
+      "content": "Runtime preview ready. Try sending a message to test how this agent would respond in chat.",
+      "timestamp": "2026-03-01T13:16:14.519Z"
+    }
+  ],
+  "createdAt": "2026-03-01T13:16:14.519Z",
+  "updatedAt": "2026-03-01T13:16:22.731Z"
+}

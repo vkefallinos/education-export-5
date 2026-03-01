@@ -1,0 +1,7 @@
+{
+  "emptyFieldsForRuntime": [
+    "resourcesAvailable",
+    "studentNeeds",
+    "classroom/learning-model"
+  ]
+}

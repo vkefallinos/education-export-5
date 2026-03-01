@@ -1,0 +1,27 @@
+{
+  "id": "conversation-1772374128427",
+  "agentId": "agent-lesson-plan",
+  "agentName": "LessonPlanAgent",
+  "messages": [
+    {
+      "id": "msg-welcome",
+      "role": "assistant",
+      "content": "Runtime preview ready. Try sending a message to test how this agent would respond in chat.",
+      "timestamp": "2026-03-01T14:02:26.043Z"
+    },
+    {
+      "id": "msg-user-1772374126194",
+      "role": "user",
+      "content": "yo",
+      "timestamp": "2026-03-01T14:08:46.194Z"
+    },
+    {
+      "id": "msg-assistant-1772374126895",
+      "role": "assistant",
+      "content": "Preview response: I would use your assembled prompt and enabled files to answer this request. Still waiting on 3 runtime fields from the user.",
+      "timestamp": "2026-03-01T14:08:46.895Z"
+    }
+  ],
+  "createdAt": "2026-03-01T14:02:26.043Z",
+  "updatedAt": "2026-03-01T14:08:48.427Z"
+}
